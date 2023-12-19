@@ -1,5 +1,6 @@
-print("========KALKULATOR SUHU========\nDibuat oleh: Axel")
+print("========KALKULATOR SUHU========\nDibuat oleh: Axel\nThe Unlicense\nGithub Repository: https://github.com/Vaxanta/python")
 print("\nOpsi dari mana dikonversi:\n1. Celcius\n2. Reamur\n3. Fahrenheit\n4. Kelvin")
+
 
 # Kumpulan function yang berisi formula
 def cConvert(c):
